@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB2CAN", "AcTool\USB2CAN.csproj", "{1FB9EC4B-8D21-491C-A592-A531C2AFA0E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CCF0AFC1-9EDE-4B76-8DFE-4645BAE38F48}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB9EC4B-8D21-491C-A592-A531C2AFA0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB9EC4B-8D21-491C-A592-A531C2AFA0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB9EC4B-8D21-491C-A592-A531C2AFA0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB9EC4B-8D21-491C-A592-A531C2AFA0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99AE27A-4A76-4325-B7D5-6E851894D606}
+	EndGlobalSection
+EndGlobal

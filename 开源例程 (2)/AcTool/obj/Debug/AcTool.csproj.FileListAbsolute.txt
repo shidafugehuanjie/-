@@ -1,0 +1,14 @@
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\AcTool.csproj.GenerateResource.Cache
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\dmactool.Form1.resources
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\dmactool.Form2.resources
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\bin\Debug\mBotAcTools.exe.config
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\bin\Debug\mBotAcTools.exe.manifest
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\bin\Debug\mBotAcTools.application
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\bin\Debug\mBotAcTools.exe
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\bin\Debug\mBotAcTools.pdb
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\mBotAcTools.Properties.Resources.resources
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\mBotAcTools.exe.manifest
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\mBotAcTools.application
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\mBotAcTools.exe
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\mBotAcTools.pdb
+E:\work-new\ESC\Assistant box\code\PC_Tool\AcTool\obj\Debug\AcTool.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\bin\Release\abostudio.exe.config
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\bin\Release\abostudio.exe
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\bin\Release\abostudio.pdb
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.Form1.resources
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.Properties.Resources.resources
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.csproj.GenerateResource.Cache
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.exe
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.pdb
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\bin\Release\abostudio.exe.manifest
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\bin\Release\abostudio.application
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.exe.manifest
+E:\work-new\abostudio\PC-APP\abostudio\abostudio\abostudio\obj\Release\abostudio.application
